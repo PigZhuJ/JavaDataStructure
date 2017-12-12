@@ -1,4 +1,4 @@
-package Node;
+package Nodeclass;
 
 /**
  * 节点类
